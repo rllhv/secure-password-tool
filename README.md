@@ -15,6 +15,6 @@ A lightweight, CLI-based security utility built in Python to evaluate password c
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rllhv/secure-password-tool.git](https://github.com/rllhv/secure-password-tool.git)
+   git clone https://github.com/rllhv/secure-password-tool.git
 
    python password_tool.py
